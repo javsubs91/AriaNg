@@ -16,4 +16,4 @@
 Screenshoot:
 
 
-<img src="https://github.com/javsubs91/AriaNg/blob/main/Screenshot%20(349).png?raw=true" height="360px" align="left"></a>
+<img src="https://github.com/javsubs91/AriaNg/blob/main/Screenshot%20(349).png?raw=true" height="480px" align="left"></a>
