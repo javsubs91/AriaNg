@@ -1,9 +1,9 @@
 <center><img src="https://raw.githubusercontent.com/mayswind/AriaNg-Native/master/assets/AriaNg.ico" height="80px" align="left"></a>
 
-# <font size=6>**AriaNg for colab**</font>
+# <font size7>**AriaNg for colab**</font>
 
 
-# 'By: javsubs91'
+# `By: javsubs91`
 
 ---
 
