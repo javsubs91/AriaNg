@@ -2,9 +2,6 @@
 
 # <font size=6>**AriaNg for colab**</font>
 
----
-
-
 
 # *`By: javsubs91`*
 
