@@ -1,4 +1,4 @@
-# <center><font size=6>**AriaNg for colab**</font>
+# <center><font size=6>**AriaNg for colab**</center></font>
 
 ---
 
