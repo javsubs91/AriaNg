@@ -12,7 +12,7 @@
 
 <a href="https://colab.research.google.com/github/javsubs91/AriaNg/blob/main/AriaNg_(ARGOTUNNEL).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> ARGOTUNEL
 
-<a href="https://colab.research.google.com/github/javsubs91/AriaNg-for-Colab/blob/master/AriaNg%20for%20colab-(ngrok).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> NGROK
+<a href="https://colab.research.google.com/github/javsubs91/AriaNg/blob/main/AriaNg(ngrok).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> NGROK
 
 
 
