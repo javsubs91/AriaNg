@@ -6,6 +6,8 @@ import re
 from subprocess import Popen,PIPE
 
 HOME = os.path.expanduser("~")
+CWD = os.getcwd()
+
 
 # All found ngrok authtoken from github
 tokens = {
